@@ -1,0 +1,22 @@
+.btn {
+    border: none;
+    font-size: 24px;
+    height: 35px;
+    width: 35px;
+    background-color: #c5c5c5;
+    color: teal;
+    margin: 15px;
+    cursor: pointer;
+    transition: background-color .1s linear;
+}
+
+.btn:hover{
+    background-color: #ababab;
+}
+
+.add{
+    padding: 15px;
+    width: auto;
+    height: auto;
+    font-size: 20px;
+}
